@@ -1,3 +1,4 @@
+# Consens of a aulti agent system with implicit Lyapunov function
 This MATLAB program is built in order to investigate finite time observer design for multiagent system, with event triggered protocol to ensure the consensus between the agents.
 
 The finite time observer is built using implicit Lyapunov function approach. While the event trigger protocol is a synchronous protocol, that is associated with a control law to achieve the consensus convergence between the agents with bounded consensus error.
